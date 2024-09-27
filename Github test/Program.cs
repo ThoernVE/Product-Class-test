@@ -1,5 +1,11 @@
 ﻿namespace Github_test;
 
+/*
+    Jag tror det saknas kommentarer
+*/
+
+
+
 class Product 
 {
     public int Price;
