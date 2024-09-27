@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\repos\\Product-Class-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C8A360-9F14-4462-B594-9429F64F9258}|Github test\\Github test.csproj|c:\\users\\asus\\documents\\repos\\product-class-test\\github test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C8A360-9F14-4462-B594-9429F64F9258}|Github test\\Github test.csproj|solutionrelative:github test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\repos\\Product-Class-test\\Github test\\Program.cs",
+              "RelativeDocumentMoniker": "Github test\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\repos\\Product-Class-test\\Github test\\Program.cs",
+              "RelativeToolTip": "Github test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:18:51.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

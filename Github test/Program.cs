@@ -6,6 +6,7 @@
 
 //VARFÖR FINNS DET INGA KOMMENTARER?!?!?!? VAR ÄR PRICE?!!??!?!
 
+// kommenterara???
 
 
 class Product 
