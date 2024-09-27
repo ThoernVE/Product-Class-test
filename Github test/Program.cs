@@ -4,6 +4,8 @@
     Jag tror det saknas kommentarer
 */
 
+//VARFÖR FINNS DET INGA KOMMENTARER?!?!?!? VAR ÄR PRICE?!!??!?!
+
 
 
 class Product 
